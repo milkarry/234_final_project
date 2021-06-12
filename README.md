@@ -6,9 +6,9 @@ Author : Wenjing Li (Sarah), Yuyang Wu(Alex), Yiru Wang, Haohua Deng(Karry)
 
 We didn't upload the original datasets since they are too big.
 
-final_dataset.csv : The dataset after cleanning.
+final_dataset.csv : The dataset after cleaning.
 
-sorted_data.ipynb: Part of the data cleanning process
+sorted_data.ipynb: Part of the data cleaning process
 
 logistic regression.ipynb: Logistic regression appraoch
 
