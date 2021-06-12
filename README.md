@@ -17,3 +17,7 @@ svm-2.ipynb: The first attempt to svm method
 SVM_final.ipynb: The final SVM code.
 
 neural network.ipynb: The neural network method attempt
+
+234 project presentation.pdf: The presentation slides
+
+Project Report.pdf: The project report
